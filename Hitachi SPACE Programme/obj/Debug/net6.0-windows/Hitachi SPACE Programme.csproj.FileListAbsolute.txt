@@ -1,0 +1,24 @@
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\Hitachi SPACE Programme.exe
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\Hitachi SPACE Programme.deps.json
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\Hitachi SPACE Programme.runtimeconfig.json
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\Hitachi SPACE Programme.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\Hitachi SPACE Programme.pdb
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.AssemblyInfoInputs.cache
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.AssemblyInfo.cs
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.csproj.CoreCompileInputs.cache
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\refint\Hitachi SPACE Programme.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.pdb
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.genruntimeconfig.cache
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\ref\Hitachi SPACE Programme.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi SPACE Programme.csproj.GenerateResource.cache
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi_SPACE_Programme.Index.resources
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi_SPACE_Programme.IndexControl.resources
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi_SPACE_Programme.DataEntryControl.resources
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\de\Hitachi SPACE Programme.resources.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi_SPACE_Programme.Index.de.resources
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\de\Hitachi SPACE Programme.resources.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\bin\Debug\net6.0-windows\en\Hitachi SPACE Programme.resources.dll
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\Hitachi_SPACE_Programme.Index.en.resources
+C:\Users\Hringald\source\repos\Hitachi SPACE Programme\Hitachi SPACE Programme\obj\Debug\net6.0-windows\en\Hitachi SPACE Programme.resources.dll
